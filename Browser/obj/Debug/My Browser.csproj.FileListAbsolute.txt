@@ -1,0 +1,10 @@
+C:\Users\Razvan\source\repos\My Browser\My Browser\bin\Debug\My Browser.exe.config
+C:\Users\Razvan\source\repos\My Browser\My Browser\bin\Debug\My Browser.exe
+C:\Users\Razvan\source\repos\My Browser\My Browser\bin\Debug\My Browser.pdb
+C:\Users\Razvan\source\repos\My Browser\My Browser\obj\Debug\My Browser.csprojResolveAssemblyReference.cache
+C:\Users\Razvan\source\repos\My Browser\My Browser\obj\Debug\My_Browser.Form1.resources
+C:\Users\Razvan\source\repos\My Browser\My Browser\obj\Debug\My_Browser.Properties.Resources.resources
+C:\Users\Razvan\source\repos\My Browser\My Browser\obj\Debug\My Browser.csproj.GenerateResource.Cache
+C:\Users\Razvan\source\repos\My Browser\My Browser\obj\Debug\My Browser.csproj.CoreCompileInputs.cache
+C:\Users\Razvan\source\repos\My Browser\My Browser\obj\Debug\My Browser.exe
+C:\Users\Razvan\source\repos\My Browser\My Browser\obj\Debug\My Browser.pdb
